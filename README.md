@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 LaLaLaLa
-
+Info more
 ## Intro
 
 Sample website with plenty of files for demos
@@ -18,3 +18,4 @@ Info for deploys
 ## How To Contribute
 
 Sample website with plenty of files for demos
+More Sample info.
