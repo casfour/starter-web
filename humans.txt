@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Colleen Schulz	newbie	Catsy
 
 # THANKS
 
