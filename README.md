@@ -19,6 +19,7 @@ Info for deploys
 
 Sample website with plenty of files for demos
 More Sample info.
+Please update.
 
 ### Copyright
 2021 Git.traning.
