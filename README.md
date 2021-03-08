@@ -23,4 +23,4 @@ More Sample info.
 Please update.
 
 ### Copyright
-2021 Git.traning.
+2021 Git.traning. All rights Free to change.
